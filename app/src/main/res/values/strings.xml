@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The App</string>
+    <string-array name="maritalStatus">
+        <item>single</item>
+        <item>married</item>
+        <item>divorced</item>
+        <item>choose not to say</item>
+    </string-array>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">Don\'t have an account? Register</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
